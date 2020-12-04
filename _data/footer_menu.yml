@@ -1,7 +1,6 @@
+- name: Home
+  link: /
 - name: Lectures
   link: /lectures/
-  dropdown: 
-    - name: MSSI
-      link: /lectures/mssi/
 - name: About
   link: /about/
