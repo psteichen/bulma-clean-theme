@@ -1,0 +1,14 @@
+style: is-dark
+items:
+  - title: Lectures
+    subtitle: University of Luxembourg
+    icon: fa-university
+    link: /lectures/
+  - title:  Slides
+    subtitle: Conferences, workshops and other speeches
+    icon: fa-file-powerpoint
+    link: /slides/
+  - title: Training
+    subtitle: Other lectures or training material
+    icon: fa-chalkboard-teacher
+    link: /training/

@@ -1,7 +1,15 @@
-- name: Lectures
-  link: /lectures/
-  dropdown: 
-    - name: MSSI
-      link: /lectures/mssi/
+- name: Cyber
+  link: /cyber/
+  dropdown:
+    - name: Lectures
+      link: /lectures/
+    - name: Presentation
+      link: /slides/
+    - name: Training
+      link: /training/
+- name: Books
+  link: /books/
+- name: Photography
+  link: /gallery/
 - name: About
   link: /about/

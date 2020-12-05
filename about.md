@@ -2,6 +2,8 @@
 layout: page
 title: About & Contact
 permalink: /about/
+hero_image: /img/lux.jpg
+hero_height: is-medium
 ---
 
 ![](/img/logo_full.png){: class="is-pulled-right"}

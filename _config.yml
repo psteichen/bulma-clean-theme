@@ -4,7 +4,8 @@ logo: /img/logo.png
 tagline: pll
 email: pst@libre.lu
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The most incomprehensible thing about the world is that it is comprehensible.
+  Albert Einstein
 baseurl: ""
 url: "https://pst.libre.lu"
 permalink: pretty
@@ -24,7 +25,6 @@ disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
   shortname:
-
 
 plugins:
   - jekyll-sitemap
@@ -62,9 +62,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Pascal Steichen"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: /img/io.png
       show_sidebar: true
 
 markdown: kramdown

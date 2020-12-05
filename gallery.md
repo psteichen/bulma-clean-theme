@@ -3,6 +3,8 @@ layout: page
 title: Image Gallery
 subtitle: An example image gallery page
 description: A simple image gallery page 
+hero_image: /img/sunset.jpg
+hero_height: is-medium
 gallery: example_gallery
 show_sidebar: false
 ---
