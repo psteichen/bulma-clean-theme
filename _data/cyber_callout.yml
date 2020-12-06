@@ -4,11 +4,11 @@ items:
     subtitle: University of Luxembourg
     icon: fa-university
     link: /lectures/
-  - title:  Slides
-    subtitle: Conferences, workshops and other speeches
+  - title:  Speeches
+    subtitle: Conferences, webinars, workshops and other slideshows
     icon: fa-file-powerpoint
     link: /slides/
-  - title: Training
-    subtitle: Other lectures or training material
-    icon: fa-chalkboard-teacher
-    link: /training/
+  - title: Tools n References
+    subtitle: Useful tools and good practice for the digital life
+    icon: fa-toolbox
+    link: /tools/

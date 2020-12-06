@@ -1,0 +1,42 @@
+- title: Flora & Fauna
+  images:
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x675
+      alt: Flora
+      description: Flora
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x900
+      alt: Fauna
+      description: Fauna
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x900
+      alt: Flowers alt text for the image
+      description: Flowers
+
+- title: -----
+  images:
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x675
+      alt: Dusk, dawn, n' Silouhettes
+      description:  Dusk, dawn, n' Silouhettes
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x900
+      alt: Pattern & texture
+      description: Pattern & texture
+    - link: https://via.placeholder.com/400x300
+      large_link: https://via.placeholder.com/1200x900
+      alt: Black & white
+      description: Black & white
+
+- title: template Gallery
+  images:
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: The image description
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: The image description
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: |-
+        The *image* **description**

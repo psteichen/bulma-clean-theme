@@ -3,10 +3,10 @@
   dropdown:
     - name: Lectures
       link: /lectures/
-    - name: Presentation
+    - name: Speeches
       link: /slides/
-    - name: Training
-      link: /training/
+    - name: Tools n References
+      link: /tools/
 - name: Books
   link: /books/
 - name: Photography
