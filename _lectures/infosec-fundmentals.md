@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: lecture
 title: "Fundamentals of information security methodologies"
-date: 2012-11-15
-author: Pascal Steichen
-categories: lectures
-summary: "M2SSIC 2012-2013 @ [University of Lorraine](http://www.univ-lorraine.fr/)"
+subtitle: "M2SSIC @ [University of Lorraine](http://www.univ-lorraine.fr/)"
+year: 2012-2013
 image: '/assets/media/method.jpg'
-show_sidebar: false
-published: true
 ---
 
 # Course material

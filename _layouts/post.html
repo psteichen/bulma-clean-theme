@@ -4,8 +4,16 @@ layout: default
 
 <div class="content">
 
-    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+  <div class="block has-text-right">
+    {{ page.title }}
+    {{ page.summary | markdownify }}
+    Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}
+  </div>
 
+    {% if page.image %}
+      <img class="" src="{{ page.image }}" alt="{{ page.title }}">
+    {% endif %}
+ 
     {{ content }}
 </div>
 

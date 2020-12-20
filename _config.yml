@@ -73,8 +73,8 @@ highlighter: rouge
 footer_menu: footer_menu
 
 collections:
-  products: 
+  lectures: 
     output: true
-    layout: product
+    layout: lecture
     image: https://via.placeholder.com/800x600
     show_sidebar: false

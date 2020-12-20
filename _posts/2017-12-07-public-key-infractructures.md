@@ -4,11 +4,11 @@ title:  "Public Key Infrastructures"
 date: 2007-12-07
 author: Pascal Steichen
 categories: lectures
-description: "Public Key Infrastructures @ MISSM 2007-2008 @ University of Luxembourg"
+summary: "[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management) 2007-2008 @ [University of Luxembourg](http://uni.lu/)"
 image: '/assets/media/pki.jpg'
+show_sidebar: false
 published: true
 ---
-[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management) 2007-2008 @ [University of Luxembourg](http://uni.lu/)
 
 # Course material
 

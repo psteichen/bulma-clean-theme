@@ -1,13 +1,15 @@
 <div class="card">
+    <header class="card-header">
     {% if post.image %}
     <div class="card-image">
-        <img src="{{ post.image }}" alt="{{ post.title }}">
+      <a href="{{ site.baseurl }}{{ post.url }}"><img class="" src="{{ post.image }}" alt="{{ post.title }}"></a>
     </div>
     {% else %}
-    <header class="card-header">
-        <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
-    </header>
+    <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
     {% endif %}
+
+    <!--    <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a> -->
+    </header>
     <div class="card-content">
         <div class="content">
             {% if post.image %}
