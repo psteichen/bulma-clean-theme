@@ -2,7 +2,7 @@
 layout: page
 title: About & Contact
 permalink: /about/
-hero_image: /img/lux.jpg
+hero_image: /assets/media/lux.jpg
 hero_height: is-medium
 ---
 
@@ -19,7 +19,7 @@ Well, _libre_ shall be considered as in [Libre Knowledge](https://en.wikipedia.o
 3. enhance and/or extend the work and share the result
 
 
-![](/img/io.png){: class="is-pulled-right"}
+![](/assets/media/io.png){: class="is-pulled-right"}
 ## Contact
 Pascal Steichen - [pst_AT_libre_DOT_lu](mailto:pst_AT_libre_DOT_lu)
 

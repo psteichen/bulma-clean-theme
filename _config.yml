@@ -1,6 +1,6 @@
 # Site Settings
 title: pst.libre.lu
-logo: /img/logo.png
+logo: /assets/media/logo.png
 tagline: pll
 email: pst@libre.lu
 description: >
@@ -10,9 +10,8 @@ baseurl: ""
 url: "https://pst.libre.lu"
 permalink: pretty
 
-#favicon: /path/to/favicon.png
-#gh_sponsor: psteichen
-#hide_share_buttons: true
+favicon: /assets/media/favicon.png
+hide_share_buttons: true
 
 theme: bulma-clean-theme
 
@@ -48,6 +47,7 @@ sass:
   style: compressed
   source_dir: _sass
 
+#gh_sponsor: psteichen
 #google_analytics: UA-code-here
 
 defaults:
@@ -64,7 +64,7 @@ defaults:
     values:
       author: "Pascal Steichen"
       layout: post
-      image: /img/io.png
+      image: /assets/media/io.png
       show_sidebar: true
 
 markdown: kramdown

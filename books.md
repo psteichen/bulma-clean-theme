@@ -4,7 +4,7 @@ subtitle: Good reads about science, life and humans
 layout: product-category
 show_sidebar: false
 hero_height: is-medium
-hero_image: /img/books.jpg
+hero_image: /assets/media/books.jpg
 sort: price
 ---
 
