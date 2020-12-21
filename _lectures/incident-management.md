@@ -9,24 +9,30 @@ image: '/assets/media/hacker.jpg'
 # Abstract
 
 _You may ask - why is effective incident management important?_
+
 _Why is a good CERT, so important?_
+
 _Why is it, in fact, essential for any organisation?_
 
 The answer is simple: when there is a fire, it must be extinguished. Anyone who has ever been in a fire wants to prevent it next time. It is the same with security incidents. Some time may pass without an incident - but they happen and will happen. Trend reports5 show that incidents are not becoming fewer. On the contrary - they are becoming more advanced and targeted. Although some targets will be more popular than others, there are no safe hide-outs. For instance, even smaller schools in countries with languages spoken by small populations are being targeted these days. Banks, big networks, government and military entities are 'popular' targets. 'Hacktivism' has also emerged, where political or idealistic goals are used to justify what others would describe as cybercrime. Isolation does not help. Incidents can occur even if ample security measures are in place to shield an organisation from external threats via the internet. You should know that it has been reported that a substantial percentage of all incidents taking place has an internal source rather than an external one.
 
 _You may ask - isn't incident management purely an IT issue?_
+
 _Can it be dealt with by capable computer people only?_
 
 No, it is not just IT. Incidents threaten the organisation as a whole. The organisation's primary business process, all its other processes and reputation - they are all in jeopardy when incidents strike. Incident management seeks to prevent such incidents from happening. And when they do happen, to contain and resolve them, and use the lessons learnt for the next time. Therefore incident management serves the primary process and the organisation as a whole. The IT department may implement it, but it directly concerns the management of the organisation.
 
 Thus, incident management is an important tool of overall governance and to have it, in whatever form or shape, is a necessity. This fact is recognised and supported in the ISO 27000 security standards7 and in frameworks such as ITIL and COBIT. 
 
-# Course details and slides
+# Course material and slides
 
-- [Information Security Incident Management](/assets/media/IM(1)-MSSI-uni.lu_v2015.pdf)
+- [Part 1 - Information Security Incident Management](/assets/media/IM-part1-MISSM-uni.lu_v2020.pdf) 
 
-  The course, will give a global/general overview on how incident management integrates into the CISO's daily business and highlight are the aspects not detailed enough in 27002 based information security policies to achieve an efficient incident management process.
+  A general overview of how incident management integrates into the CISO's daily business and highlight the aspects not detailed enough in 27002 based information security policies to achieve an efficient incident management process.
 
+- [Part 2 - Incident Resolution Cycle and Luxembourg Ecosystem](/assets/media/IM-part2-MISSM-uni.lu_v2020.pdf) 
+
+  Deep dive into the incident resolution process and overview of the Luxembourg cybersecurity ecosystem. Knowing your ecosystem is key when it comes to rapid reaction in case of an incident or crisis.
 
 # References and further reading
 

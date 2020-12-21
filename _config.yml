@@ -16,7 +16,7 @@ hide_share_buttons: true
 theme: bulma-clean-theme
 
 paginate: 5
-paginate_path: "/lectures/page:num"
+paginate_path: "/books/page:num"
 
 # Disqus Comments
 disqus:
@@ -28,8 +28,8 @@ disqus:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-seo-tag
   - kramdown-parser-gfm
+  - jekyll-target-blank
 
 exclude: 
   - Gemfile
