@@ -6,7 +6,7 @@ hero_image: /assets/media/lux.jpg
 hero_height: is-medium
 ---
 
-![](/img/logo_full.png){: class="is-pulled-right"}
+![](/assets/media/logo_full.png){: class="is-pulled-right"}
 This site is about me and my private as well as para-professional activities, like:
 - cybersecurity
   - [university lectures](/cyber/lectures/)
@@ -40,6 +40,6 @@ All content, except otherwise specified here below, is distributed under the
 [Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 **Exceptions are:**
-- photos that are **not** part of [my gallery](/gallery/), credits go to [unsplash.com (Photos for everyone))](https://unsplash.com/)
+- photos that are **not** part of [my gallery](/gallery/), credits go to [unsplash.com (_Photos for everyone_)](https://unsplash.com/)
 - book cover images and abstracts
 
