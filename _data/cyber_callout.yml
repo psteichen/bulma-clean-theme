@@ -3,12 +3,12 @@ items:
   - title: Lectures
     subtitle: University of Luxembourg
     icon: fa-university
-    link: /lectures/
+    link: /cyber/lectures/
   - title:  Speeches
     subtitle: Conferences, webinars, workshops and other slideshows
     icon: fa-file-powerpoint
-    link: /slides/
-  - title: Tools n References
+    link: /cyber/slides/
+  - title: Tools n Tips
     subtitle: Useful tools and good practice for the digital life
     icon: fa-toolbox
-    link: /tools/
+    link: /cyber/tools/

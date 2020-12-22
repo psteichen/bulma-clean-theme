@@ -7,5 +7,6 @@ hero_image: /assets/media/unilu.jpg
 hero_height: is-medium
 show_sidebar: false
 sort: year
+permalink: /cyber/lectures/
 ---
 

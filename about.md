@@ -8,11 +8,11 @@ hero_height: is-medium
 
 ![](/assets/media/logo_full.png){: class="is-pulled-right"}
 This site is about me and my private as well as para-professional activities, like:
-- cybersecurity
+- cyber and digital
   - [university lectures](/cyber/lectures/)
   - [slides n' presentations](/cyber/slides/)
-  - [tools n' references](/cyber/tools/)
-- [preferred books and reads](/books/)
+  - [tools n' tips](/cyber/tools/)
+- [preferred books and good reads](/books/)
 - [photography](/gallery/)
 
 # Why _libre.lu_ ?
@@ -32,6 +32,7 @@ Well, _libre_ shall be considered as in [Libre Knowledge](https://en.wikipedia.o
 - structured and coded: [<i class="fab fa-github fa-lg"></i>](https://github.com/psteichen/)
 - a picture says more the 100 the words: [<i class="fab fa-flickr fa-lg"></i>](https://flickr.com/photos/psteichen/)
 
+<a name="legal"></a>
 # Legal aspects
 
 {% fa_svg fab.fa-creative-commons-by %}{: .is-pulled-right}

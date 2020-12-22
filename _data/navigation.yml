@@ -2,11 +2,11 @@
   link: /cyber/
   dropdown:
     - name: Lectures
-      link: /lectures/
-    - name: Speeches
-      link: /slides/
+      link: /cyber/lectures/
+    - name: Slides
+      link: /cyber/slides/
     - name: Tools n References
-      link: /tools/
+      link: /cyber/tools/
 - name: Books
   link: /books/
 - name: Photography
