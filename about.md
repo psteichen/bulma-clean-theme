@@ -25,12 +25,8 @@ Well, _libre_ shall be considered as in [Libre Knowledge](https://en.wikipedia.o
 3. enhance and/or extend the work and share the result
 
 
-# Contact ![](/assets/media/io.png){: .is-pulled-right}
-
-- the old and classic way: [<i class="fas fa-envelope fa-lg"></i>](mailto:pst_AT_libre_DOT_lu)
-- short and to the point: [<i class="fab fa-twitter fa-lg"></i>](https://twitter.com/_pst/)
-- structured and coded: [<i class="fab fa-github fa-lg"></i>](https://github.com/psteichen/)
-- a picture says more the 100 the words: [<i class="fab fa-flickr fa-lg"></i>](https://flickr.com/photos/psteichen/)
+# Contact
+{% include contact.html %}
 
 <a name="legal"></a>
 # Legal aspects

@@ -1,0 +1,13 @@
+- desc: "the old and classic way"
+  icon: "fas fa-envelope"
+  link: "mailto:pst_AT_libre_DOT_lu"
+- desc: "short and to the point"
+  icon: "fab fa-twitter"
+  link: "https://twitter.com/_pst/"
+- desc: "structured and coded"
+  icon: "fab fa-github"
+  link: "https://github.com/psteichen/"
+- desc: "a picture says more the 100 the words"
+  icon: "fab fa-flickr"
+  link: "https://flickr.com/photos/psteichen/"
+
