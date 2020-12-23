@@ -12,6 +12,8 @@ sections:
   label: Lectures
   create: all
   match: "**/*"
+  templates:
+  - lecture
 - type: directory
   path: _slides
   label: Slides
