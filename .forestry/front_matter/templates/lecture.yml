@@ -8,9 +8,15 @@ fields:
 - type: textarea
   name: subtitle
   label: subtitle
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: lecture
 - type: file
   name: image
   label: image
