@@ -25,5 +25,6 @@ fields:
   label: year
 pages:
 - _lectures/incident-management.md
+- _lectures/infosec-fundmentals.md
 - _lectures/log-analysis-digital-forensics.md
 - _lectures/public-key-infractructures.md
