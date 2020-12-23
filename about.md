@@ -10,12 +10,12 @@ hero_height: is-medium
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
   - [university lectures](/cyber/lectures/)
-  - [slides n' presentations](/cyber/slides/)
-  - [tools n' tips](/cyber/tools/)
+  - [slides n' presentations](/cyber/slides/) _(coming soon...)_
+  - [tools n' tips](/cyber/tools/) _(coming soon...)_
 {% comment %}
 - [preferred books and good reads](/books/)
-- [photography](/gallery/)
 {% endcomment %}
+- [photography](/gallery/)
 
 # Why _libre.lu_ ?
 
