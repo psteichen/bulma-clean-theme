@@ -1,5 +1,6 @@
 
-![](https://pst.libre.lu/assets/media/logo_full.png){: class="is-pulled-right"}
+![](https://pst.libre.lu/assets/media/logo_full.png)
+
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
   - [university lectures](https://pst.libre.lu/cyber/lectures/)
