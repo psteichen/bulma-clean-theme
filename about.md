@@ -4,6 +4,7 @@ title: About & Contact
 permalink: /about/
 hero_image: /assets/media/lux.jpg
 hero_height: is-medium
+show_sidebar: false
 ---
 
 ![](/assets/media/logo_full.png){: class="is-pulled-right"}
