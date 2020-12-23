@@ -1,14 +1,15 @@
+---
 style: is-dark
 items:
-  - title: Lectures
-    subtitle: University of Luxembourg
-    icon: fa-university
-    link: /cyber/lectures/
-  - title:  Speeches
-    subtitle: Conferences, webinars, workshops and other slideshows
-    icon: fa-file-powerpoint
-    link: /cyber/slides/
-  - title: Tools n Tips
-    subtitle: Useful tools and good practice for the digital life
-    icon: fa-toolbox
-    link: /cyber/tools/
+- title: Lectures
+  subtitle: University of Luxembourg
+  icon: fa-university
+  link: "/cyber/lectures/"
+- title: Talks n’ speeches
+  subtitle: Conferences, webinars, workshops and other public speaking material
+  icon: fa-file-powerpoint
+  link: "/cyber/slides/"
+- title: Tools n Tips
+  subtitle: Useful tools and good practice for the digital life
+  icon: fa-toolbox
+  link: "/cyber/tools/"
