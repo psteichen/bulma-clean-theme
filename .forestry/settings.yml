@@ -6,13 +6,10 @@ webhook_url:
 sections:
 - type: jekyll-pages
   label: Pages
-  create: all
-- type: jekyll-posts
-  label: Books
-  create: all
+  create: documents
 - type: directory
-  path: _tools
-  label: Tools
+  path: _lectures
+  label: Lectures
   create: all
   match: "**/*"
 - type: directory
@@ -21,8 +18,18 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _lectures
-  label: Lectures
+  path: _tools
+  label: Tools
+  create: all
+  match: "**/*"
+- type: directory
+  path: _books
+  label: Books
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _data
+  label: Data files
   create: all
   match: "**/*"
 upload_dir: assets/media
