@@ -14,12 +14,12 @@ sort: ''
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
   - [university lectures](/cyber/lectures/)
-  - [slides n' presentations](/cyber/slides/) _(coming soon...)_
+  - [talks n' speeches](/cyber/slides/) _(coming soon...)_
   - [tools n' tips](/cyber/tools/) _(coming soon...)_
 {% comment %}
 - [preferred books and good reads](/books/)
 {% endcomment %}
-- [photography](/gallery/)
+- [photography](/photo/)
 
 # Why _libre.lu_ ?
 
