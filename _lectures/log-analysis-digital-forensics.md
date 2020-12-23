@@ -1,11 +1,12 @@
 ---
 layout: lecture
-title: "Log analysis and Digital Forensics"
-subtitle: "[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management) @ [University of Luxembourg](http://uni.lu/)"
+title: Log analysis and Digital Forensics
+subtitle: "[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management)
+  @ [University of Luxembourg](http://uni.lu/)"
 year: 2019-2020
-image: '/assets/media/analyst.jpg'
----
+image: "/assets/media/analyst.jpg"
 
+---
 # Abstract
 
 _In flagrante delicto or "caught in the act" is the ideal situation for every security officer, be it in the physical or in the electronic world. Why is it so utopian ?_
@@ -41,4 +42,3 @@ Digital Forensics references:
 - [Wietse Venema and Dan Farmer's forensics page](http://www.porcupine.org/forensics/)
 - [Computer Forensics, Cybercrime and Steganography Resources](http://www.forensix.org/)
 - [ENISA Digital Forensics Training and Material](https://www.enisa.europa.eu/activities/cert/training/training-resources/technical-operational#digital_forensics)
-

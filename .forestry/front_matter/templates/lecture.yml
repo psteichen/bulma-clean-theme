@@ -24,4 +24,5 @@ fields:
   name: year
   label: year
 pages:
+- _lectures/log-analysis-digital-forensics.md
 - _lectures/public-key-infractructures.md
