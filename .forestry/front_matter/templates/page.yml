@@ -1,0 +1,31 @@
+---
+label: page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: boolean
+  name: hero_darken
+  label: hero_darken
+- type: file
+  name: hero_image
+  label: hero_image
+- type: text
+  name: hero_height
+  label: hero_height
+- type: boolean
+  name: show_sidebar
+  label: show_sidebar
+- type: text
+  name: sort
+  label: sort
+- type: text
+  name: permalink
+  label: permalink
