@@ -37,3 +37,4 @@ fields:
   label: permalink
 pages:
 - lectures.md
+- tools.md
