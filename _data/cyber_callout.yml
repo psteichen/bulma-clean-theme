@@ -2,7 +2,7 @@
 style: is-dark
 items:
 - title: Lectures
-  subtitle: University of Luxembourg
+  subtitle: in the field of information security _aka cybersecurity_
   icon: fa-university
   link: "/cyber/lectures/"
 - title: Talks n’ speeches
