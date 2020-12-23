@@ -35,3 +35,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- lectures.md
