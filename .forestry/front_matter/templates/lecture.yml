@@ -1,0 +1,19 @@
+---
+label: lecture
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: image
+  label: image
+- type: text
+  name: year
+  label: year
