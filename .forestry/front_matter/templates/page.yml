@@ -8,8 +8,14 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: subtitle
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
   label: subtitle
 - type: boolean
   name: hero_darken
