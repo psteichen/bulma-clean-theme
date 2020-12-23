@@ -1,10 +1,9 @@
+---
 - name: Home
-  link: /
+  link: "/"
 - name: Cybersecurity
-  link: /cyber/
-#- name: Books
-#  link: /books/
+  link: "/cyber/"
 - name: Photography
-  link: /gallery/
+  link: "/photo/"
 - name: About
-  link: /about/
+  link: "/about/"
