@@ -7,9 +7,9 @@
       link: /cyber/slides/
     - name: Tools n References
       link: /cyber/tools/
-- name: Books
-  link: /books/
+#- name: Books
+#  link: /books/
 - name: Photography
-  link: /gallery/
+  link: /photo/
 - name: About
   link: /about/

@@ -12,8 +12,10 @@ This site is about me and my private as well as para-professional activities, li
   - [university lectures](/cyber/lectures/)
   - [slides n' presentations](/cyber/slides/)
   - [tools n' tips](/cyber/tools/)
+{% comment %}
 - [preferred books and good reads](/books/)
 - [photography](/gallery/)
+{% endcomment %}
 
 # Why _libre.lu_ ?
 
