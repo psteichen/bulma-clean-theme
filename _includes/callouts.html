@@ -18,7 +18,7 @@
                             {% endif %}
                             <p class="title is-5">{{ callout.title }}</p>
                             {% if callout.link %}</a>{% endif %}
-                            <p class="subtitle is-5">{{ callout.subtitle }}</p>
+                            <p class="subtitle is-5">{{ callout.subtitle | markdownify }}</p>
                             
                             {% if callout.description %}
                             <div class="content">
