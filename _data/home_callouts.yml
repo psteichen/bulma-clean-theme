@@ -2,7 +2,7 @@
 style: is-light
 items:
 - title: Cybersecurity
-  subtitle: University Lectures, conference et al.
+  subtitle: University lectures, talks, conferences et al., tips, tools and more...
   icon: fa-shield-alt
   link: "/cyber/"
 - title: Books and good reads
