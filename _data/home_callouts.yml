@@ -1,14 +1,15 @@
+---
 style: is-light
 items:
-  - title: Cybersecurity
-    subtitle: University Lectures, conference et al.
-    icon: fa-shield-alt
-    link: /cyber/
-  - title:  Books and good reads
-    subtitle: About science, life and humans
-    icon: fa-book-reader
-    link: /books/
-  - title: Photography
-    subtitle: A hobby too often neglected
-    icon: fa-images
-    link: /gallery/
+- title: Cybersecurity
+  subtitle: University Lectures, conference et al.
+  icon: fa-shield-alt
+  link: "/cyber/"
+- title: Books and good reads
+  subtitle: About science, life and humans
+  icon: fa-book-reader
+  link: "/books/"
+- title: Photography
+  subtitle: A hobby too often neglected
+  icon: fa-images
+  link: "/photo/"
