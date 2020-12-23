@@ -1,21 +1,10 @@
----
-layout: page
-title: About & Contact
-permalink: "/about/"
-hero_image: "/assets/media/lux.jpg"
-hero_height: is-medium
-show_sidebar: false
-subtitle: ''
-hero_darken: false
-sort: ''
 
----
-![](/assets/media/logo_full.png){: class="is-pulled-right"}
+![](https://pst.libre.lu/assets/media/logo_full.png){: class="is-pulled-right"}
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
-  - [university lectures](/cyber/lectures/)
-  - [talks n' speeches](/cyber/slides/) _(coming soon...)_
-  - [tools n' tips](/cyber/tools/) _(coming soon...)_
+  - [university lectures](https://pst.libre.lu/cyber/lectures/)
+  - [talks n' speeches](https://pst.libre.lu/cyber/slides/) _(coming soon...)_
+  - [tools n' tips](https://pst.libre.lu/cyber/tools/) _(coming soon...)_
 {% comment %}
 - [preferred books and good reads](/books/)
 {% endcomment %}
@@ -43,5 +32,5 @@ All content, except otherwise specified here below, is distributed under the
 [Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 **Exceptions are:**
-- photos that are **not** part of [my gallery](/gallery/), credits go to [unsplash.com (_Photos for everyone_)](https://unsplash.com/)
+- photos that are **not** part of [my photogallery](https://pst.libre.lu/photo/), credits go to [unsplash.com (_Photos for everyone_)](https://unsplash.com/)
 - book cover images and abstracts
