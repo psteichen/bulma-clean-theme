@@ -8,7 +8,7 @@ items:
 - title: Books and good reads
   subtitle: About science, life and humans _(coming soon...)_
   icon: fa-book-reader
-  link: "/books/"
+  link: "/"
 - title: Photography
   subtitle: A hobby too often neglected
   icon: fa-images
