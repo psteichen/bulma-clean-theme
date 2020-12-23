@@ -1,11 +1,12 @@
 ---
 layout: lecture
-title: "Information Security Incident Management"
-subtitle: "[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management) @ [University of Luxembourg](http://uni.lu/)"
+title: Information Security Incident Management
+subtitle: "[MISSM](https://wwwen.uni.lu/formations/fstm/master_in_information_system_security_management)
+  @ [University of Luxembourg](http://uni.lu/)"
 year: 2019-2020
-image: '/assets/media/hacker.jpg'
----
+image: "/assets/media/hacker.jpg"
 
+---
 # Abstract
 
 _You may ask - why is effective incident management important?_
@@ -91,5 +92,3 @@ To be able to succeed in incident handling and incident reporting, it is necessa
   * Supporting fight against cybercrime
 
   A study with the aim to improve the capability of CERTs, with a focus on the national/governmental CERTs (n/g CERTs), to address the network and information security (NIS) aspects of cybercrime.
-
-
