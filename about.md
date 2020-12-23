@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About & Contact
-permalink: /about/
-hero_image: /assets/media/lux.jpg
+permalink: "/about/"
+hero_image: "/assets/media/lux.jpg"
 hero_height: is-medium
 show_sidebar: false
----
+subtitle: ''
+hero_darken: false
+sort: ''
 
+---
 ![](/assets/media/logo_full.png){: class="is-pulled-right"}
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
@@ -42,4 +45,3 @@ All content, except otherwise specified here below, is distributed under the
 **Exceptions are:**
 - photos that are **not** part of [my gallery](/gallery/), credits go to [unsplash.com (_Photos for everyone_)](https://unsplash.com/)
 - book cover images and abstracts
-
