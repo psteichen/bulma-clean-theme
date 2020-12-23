@@ -36,6 +36,7 @@ fields:
   name: permalink
   label: permalink
 pages:
+- 404.html
 - about.md
 - cyber.md
 - index.md
