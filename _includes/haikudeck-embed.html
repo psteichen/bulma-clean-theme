@@ -1,0 +1,24 @@
+
+<div class="columns">
+{% for slide in site.data.slides %}
+  <div class="column is-half">
+    <div class="card">
+      <header class="card-header">
+        <span class="card-header-icon"><span class="icon is-italic">{{ slide.year }}</span></span>
+        <p class="card-header-title is-centered">{{ slide.title}}</p>
+      </header>
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <iframe class="has-ratio" src="{{ slide.url }}?isUrlHashEnabled=false&isHeaderVisible=false" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+        </figure>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span class="is-size-7">View on <a href="{{ slide.link }}">Haikudeck.com</a></span>
+        </p>
+      </footer>
+    </div>
+  </div>
+{% endfor %}
+</div>
+

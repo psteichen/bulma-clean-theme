@@ -1,13 +1,13 @@
 ---
-layout: slides-index
-title: Slides
-subtitle: Conferences, webinars, workshops and other presentations
+layout: page
+title: Talks n’ presentations
+subtitle: Conferences, webinars, workshops and other speeches
 hero_darken: true
 hero_image: "/assets/media/conference.jpg"
 hero_height: is-medium
 show_sidebar: false
-sort: date
 permalink: "/cyber/slides/"
 
 ---
-Coming soon, stay tuned...
+
+{% include haikudeck-embed.html %}
