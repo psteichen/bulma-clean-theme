@@ -1,28 +1,53 @@
+
 <div class="columns">
-{% for album in site.data.photos %}
-  {% assign break = forloop.index | modulo:2 %}
-  {% if break == 1 %}
-  <div class="column is-half">
-  {% endif %}
+
+  <div class="column">
+  {% for even in site.data.photos %}
+    {% assign e = forloop.index0 | modulo:2 %}
+    {% if e == 0 %}
     <div class="card">
       <header class="card-header">
-        <p class="card-header-title is-centered">{{ album.title}}</p>
+        <p class="card-header-title is-centered">{{ even.title}}</p>
       </header>
       <div class="card-image">
         <figure class="image is-16by9">
-          <iframe class="has-ratio" src="{{ album.url }}/player/" width="640" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+          <iframe class="has-ratio" src="{{ even.url }}/player/" width="640" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
         </figure>
       </div>
       <footer class="card-footer">
         <p class="card-footer-item">
-          <span class="is-size-7">View on <a href="{{ album.url }}">Flickr</a></span>
+          <span class="is-size-7">View on <a href="{{ even.url }}">flickr.com</a></span>
         </p>
       </footer>
     </div>
     <br/>
-  {% if break == 0 %}
+    {% endif %}
+  {% endfor %}
   </div>
+
+  <div class="column">
+  {% for odd in site.data.photos %}
+    {% assign o = forloop.index0 | modulo:2 %}
+    {% if o == 1 %}
+    <div class="card">
+      <header class="card-header">
+        <p class="card-header-title is-centered">{{ odd.title}}</p>
+      </header>
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <iframe class="has-ratio" src="{{ odd.url }}/player/" width="640" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </figure>
+      </div>
+      <footer class="card-footer">
+        <p class="card-footer-item">
+          <span class="is-size-7">View on <a href="{{ odd.url }}">flickr.com</a></span>
+        </p>
+      </footer>
+    </div>
+    <br/>
   {% endif %}
-{% endfor %}
+  {% endfor %}
+  </div>
+
 </div>
 
