@@ -8,6 +8,6 @@ hero_height: is-medium
 show_sidebar: false
 sort: date
 permalink: "/cyber/tools/"
-
 ---
+
 Coming soon, stay tuned...

@@ -9,5 +9,4 @@ show_sidebar: false
 permalink: "/"
 hero_darken: false
 sort: ''
-
 ---

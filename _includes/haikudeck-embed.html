@@ -1,53 +1,16 @@
-<div class="columns">
-
-  <div class="column">
-  {% for even in site.data.slides %}
-    {% assign e = forloop.index0 | modulo:2 %}
-    {% if e == 0 %}
-    <div class="card">
-      <header class="card-header">
-        <span class="card-header-icon"><span class="icon is-italic">{{ even.year }}</span></span>
-        <p class="card-header-title is-centered">{{ even.title}}</p>
-      </header>
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <iframe class="has-ratio" src="{{ even.url }}?isUrlHashEnabled=false&isHeaderVisible=false" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-        </figure>
-      </div>
-      <footer class="card-footer">
-        <p class="card-footer-item">
-          <span class="is-size-7">View on <a href="{{ even.url }}">haikudeck.com</a></span>
-        </p>
-      </footer>
-    </div>
-    <br/>
-    {% endif %}
-  {% endfor %}
+<div class="card">
+  <header class="card-header">
+    <span class="card-header-icon"><span class="icon is-italic">{{ talk.year }}</span></span>
+    <p class="card-header-title is-centered">{{ talk.title}}</p>
+  </header>
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <iframe class="has-ratio" src="{{ talk.deck-url }}?isUrlHashEnabled=false&isHeaderVisible=false" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+    </figure>
   </div>
-
-  <div class="column">
-  {% for odd in site.data.slides %}
-    {% assign o = forloop.index0 | modulo:2 %}
-    {% if o == 1 %}
-    <div class="card">
-      <header class="card-header">
-        <span class="card-header-icon"><span class="icon is-italic">{{ odd.year }}</span></span>
-        <p class="card-header-title is-centered">{{ odd.title}}</p>
-      </header>
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <iframe class="has-ratio" src="{{ odd.url }}?isUrlHashEnabled=false&isHeaderVisible=false" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-        </figure>
-      </div>
-      <footer class="card-footer">
-        <p class="card-footer-item">
-          <span class="is-size-7">View on <a href="{{ odd.url }}">haikudeck.com</a></span>
-        </p>
-      </footer>
-    </div>
-    <br/>
-  {% endif %}
-  {% endfor %}
-  </div>
-
+  <footer class="card-footer">
+    <p class="card-footer-item">
+      <span class="is-size-7">View on <a href="{{ talk.deck-link }}">haikudeck.com</a></span>
+    </p>
+  </footer>
 </div>

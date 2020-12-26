@@ -9,8 +9,7 @@ gem "bulma-clean-theme"
 #plugins
 group :jekyll_plugins do
     gem "jekyll-sitemap"
-    gem "jekyll-paginate"
+    gem "jekyll-paginate-v2"
     gem 'jekyll-target-blank'
-    gem 'jekyll-fontawesome-svg'
 end
 

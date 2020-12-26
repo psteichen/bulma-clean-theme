@@ -3,10 +3,10 @@
   dropdown:
     - name: Lectures
       link: /cyber/lectures/
-    - name: Slides
-      link: /cyber/slides/
-    - name: Tools n References
-      link: /cyber/tools/
+    - name: Talks
+      link: /cyber/talks/
+#    - name: Tools n References
+#      link: /cyber/tools/
 #- name: Books
 #  link: /books/
 - name: Photography

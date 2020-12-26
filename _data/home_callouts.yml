@@ -5,10 +5,10 @@ items:
   subtitle: University lectures, talks, conferences, tips, tools and more...
   icon: fa-shield-alt
   link: "/cyber/"
-- title: Books and good reads
-  subtitle: About science, life and humans _(coming soon...)_
-  icon: fa-book-reader
-  link: "/"
+#- title: Books and good reads
+#  subtitle: About science, nature, life and us humans _(coming soon...)_
+#  icon: fa-book-reader
+#  link: "/books/"
 - title: Photography
   subtitle: A hobby too often neglected
   icon: fa-images

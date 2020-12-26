@@ -8,8 +8,8 @@ items:
 - title: Talks n’ speeches
   subtitle: Conferences, webinars, workshops and other public speaking material
   icon: fa-file-powerpoint
-  link: "/cyber/slides/"
-- title: Tools n Tips
-  subtitle: Useful tools and good practice for the digital life
-  icon: fa-toolbox
-  link: "/cyber/tools/"
+  link: "/cyber/talks/"
+#- title: Tools n Tips
+#  subtitle: Useful tools and good practice for the digital life
+#  icon: fa-toolbox
+#  link: "/cyber/tools/"

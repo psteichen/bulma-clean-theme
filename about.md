@@ -14,9 +14,9 @@ sort: ''
 This site is about me and my private as well as para-professional activities, like:
 - cyber and digital
   - [university lectures](/cyber/lectures/)
-  - [talks n' speeches](/cyber/slides/) _(coming soon...)_
-  - [tools n' tips](/cyber/tools/) _(coming soon...)_
+  - [talks n' speeches](/cyber/slides/)
 {% comment %}
+  - [tools n' tips](/cyber/tools/)
 - [favourite books and good reads](/books/)
 {% endcomment %}
 - [photography](/photo/)
@@ -37,8 +37,7 @@ Well, _libre_ shall be considered as in [Libre Knowledge](https://en.wikipedia.o
 <a name="legal"></a>
 # Legal aspects
 
-{% fa_svg fab.fa-creative-commons-by %}{: .is-pulled-right}
-{% fa_svg fab.fa-creative-commons %}{: .is-pulled-right}
+<i class="fab fa-creative-commons fa-lg"/>&nbsp;<i class="fab fa-creative-commons-by fa-lg"/><br/>
 All content, except otherwise specified here below, is distributed under the
 [Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
